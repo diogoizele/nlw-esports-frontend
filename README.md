@@ -31,8 +31,10 @@ $ npm run dev
   - Para configurar os arquivos que serão visíveis pelo Tailwindcss, altere `content: ["./src/**/*.tsx"]` em `tailwind.config.cjs`;
   - Crie um arquivo `main.css` e importe-o em `main.tsx`:
 
-    - Conteúdo do arquivo: ```CSS
-      @tailwind base;
-      @tailwind components;
-      @tailwind utilities;
+    - Conteúdo do arquivo:
+
+    ```CSS
+     @tailwind base;
+     @tailwind components;
+     @tailwind utilities;
     ```
