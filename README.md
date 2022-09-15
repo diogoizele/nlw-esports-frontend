@@ -35,7 +35,4 @@ $ npm run dev
       @tailwind base;
       @tailwind components;
       @tailwind utilities;
-
-    ```
-
     ```
