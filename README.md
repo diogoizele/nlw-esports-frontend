@@ -21,7 +21,7 @@ $ npm run dev
 
 ### Aprendizados 🐱‍💻
 
-#### `[Aula - 2]`:
+#### [Aula - 2]:
 
 - Utilização da pasta `public` para obter acesso aos arquivos de dentro dos componentes React, através do `path`;
 - Instalação e configuração da biblioteca **Tailwind CSS**;
@@ -38,3 +38,10 @@ $ npm run dev
      @tailwind components;
      @tailwind utilities;
     ```
+
+#### [Aula - 4]:
+
+- Bibliotecas de components que suportam acessibilidade (Trabalham com as propriedades de aria das tags):
+  - Headless;
+  - Ariakit;
+  - Radix;
