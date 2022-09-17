@@ -45,3 +45,7 @@ $ npm run dev
   - Headless;
   - Ariakit;
   - Radix;
+
+#### [Aula - 5]:
+
+- KeenSlider - Biblioteca para carrossél
